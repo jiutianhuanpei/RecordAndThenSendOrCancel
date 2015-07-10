@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4D6C7F981B4FC70500EB379F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D6C7F961B4FC70500EB379F /* 2.png */; };
-		4D6C7F991B4FC70500EB379F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D6C7F971B4FC70500EB379F /* 1.png */; };
+		4D6C7F9C1B4FCA6300EB379F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D6C7F9A1B4FCA6300EB379F /* 2.png */; };
+		4D6C7F9D1B4FCA6300EB379F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D6C7F9B1B4FCA6300EB379F /* 1.png */; };
 		4DA01B2B1B4D3C740085C34C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA01B2A1B4D3C740085C34C /* main.m */; };
 		4DA01B2E1B4D3C740085C34C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA01B2D1B4D3C740085C34C /* AppDelegate.m */; };
 		4DA01B311B4D3C740085C34C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA01B301B4D3C740085C34C /* ViewController.m */; };
@@ -29,8 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4D6C7F961B4FC70500EB379F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		4D6C7F971B4FC70500EB379F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		4D6C7F9A1B4FCA6300EB379F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		4D6C7F9B1B4FCA6300EB379F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		4DA01B251B4D3C740085C34C /* LongPress.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LongPress.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DA01B291B4D3C740085C34C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DA01B2A1B4D3C740085C34C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -89,9 +89,9 @@
 				4DA01B2D1B4D3C740085C34C /* AppDelegate.m */,
 				4DA01B2F1B4D3C740085C34C /* ViewController.h */,
 				4DA01B301B4D3C740085C34C /* ViewController.m */,
+				4D6C7F9A1B4FCA6300EB379F /* 2.png */,
+				4D6C7F9B1B4FCA6300EB379F /* 1.png */,
 				4DA01B321B4D3C740085C34C /* Main.storyboard */,
-				4D6C7F961B4FC70500EB379F /* 2.png */,
-				4D6C7F971B4FC70500EB379F /* 1.png */,
 				4DA01B351B4D3C740085C34C /* Images.xcassets */,
 				4DA01B371B4D3C740085C34C /* LaunchScreen.xib */,
 				4DA01B281B4D3C740085C34C /* Supporting Files */,
@@ -207,9 +207,9 @@
 			files = (
 				4DA01B341B4D3C740085C34C /* Main.storyboard in Resources */,
 				4DA01B391B4D3C740085C34C /* LaunchScreen.xib in Resources */,
-				4D6C7F981B4FC70500EB379F /* 2.png in Resources */,
+				4D6C7F9C1B4FCA6300EB379F /* 2.png in Resources */,
 				4DA01B361B4D3C740085C34C /* Images.xcassets in Resources */,
-				4D6C7F991B4FC70500EB379F /* 1.png in Resources */,
+				4D6C7F9D1B4FCA6300EB379F /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
